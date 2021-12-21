@@ -1,4 +1,4 @@
-![image](https://github.com/Asif54321/Mohd-Asif-Ansari/blob/main/asifbanner.PNG)
+![image](https://github.com/Asif54321/Mohd-Asif-Ansari/blob/main/asifbann.png)
 
 - 🔭 I’m currently working on Data Science Projects
 - 🌱 I’m currently learning SQL and Python
